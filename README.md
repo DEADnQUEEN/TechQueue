@@ -26,7 +26,7 @@ python .\manage.py worker
 >[!warning] 
 >Так как у сервиса А и сервиса Б один и тот же начальный Endpoint, то для того чтобы разделить на синхронный и асинхронный вариант-ы, в начало пути для сервиса Б было добавлено: **async/**
 
-#Схемы работы
+# Схемы работы
 ## Service A
 ![Screenshot 2025-06-24 081948](https://github.com/user-attachments/assets/edacc1ce-51b9-44a2-85fb-c3d60b00d62c)
 ## Service B
